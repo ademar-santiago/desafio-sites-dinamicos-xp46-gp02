@@ -70,34 +70,13 @@ footer nav ul li  {
         min-height: 100vh;
     }
     
-    .nav-pills .nav-link.active, .nav-pills .show>.nav-link {
-        background-color: #C2185B;
-    }
-    
-    /*.btn btn-dark .btn btn-segundary .btn btn-danger{
-        
-    }
-    */
-
-    .btn-primary{
-       
-        background-color: #C2185B;
-        border-color: #C2185B;
-    }
-    
+           
     main.login {
         width: 400px;
     }
     
-    section.full{
-        width: 100%;
-        min-height: 80vh;
-        padding: 50px 0;
-    }
     
-    article.evento {
-        width: 350px;
-    }
+   
     
        
    
