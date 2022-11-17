@@ -99,12 +99,6 @@ footer nav ul li  {
         width: 350px;
     }
     
-    footer nav ul{
-        list-style: none;
-        display: flex;
-    }
-    
-    footer nav ul li  {
-        padding: 10px;
-    }
+       
+   
 }
